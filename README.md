@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
-- 🔭 I’m currently working on **Fast API**
+- 🔭 I’m currently working on **Fast API** & **Machine Learning**
 
 - 🌱 I’m currently learning **Backend and System Design**
 
