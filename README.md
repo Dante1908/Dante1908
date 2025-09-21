@@ -1,29 +1,15 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+# 💫 About Me:
+I'm currently working on Kotlin and Android application development<br>I'm learning Java and Springboot<br>I'm interested to work on Python/Java Backend Projects and Android Frontend Projects<br>
 
-- 🔭 I’m currently working on **Fast API** & **Machine Learning**
 
-- 🌱 I’m currently learning **Backend and System Design**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justsay_ag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-goswami-6794a1200) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workgoswami@gmail.com) 
 
-- 👯 I’m looking to collaborate on **Android Native Projects**
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dante1908&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dante1908&theme=synthwave&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dante1908&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 🤝 I’m looking for help with **Android (Kotlin + Jetpack) or Python (FastAPI) or C++**
-
-- 💬 Ask me about **Kotlin, Python, C++**
-
-- 📫 How to reach me **workgoswami@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kCLjWvUd5LKmW_foxb5UilQ3HqEcYnk_/view?usp=sharing](https://drive.google.com/file/d/1kCLjWvUd5LKmW_foxb5UilQ3HqEcYnk_/view?usp=sharing)
-
-- ⚡ Fun fact **I love Cycling and Cooking**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aman-goswami-6794a1200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-goswami-6794a1200" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fitriderag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fitriderag" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dante1908&show_icons=true&locale=en&layout=compact" alt="dante1908" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
